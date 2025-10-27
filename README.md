@@ -30,5 +30,3 @@ This project focuses on the **UI/UX layer only** and is ready to connect with an
 - 🧹 **ESLint** – clean, consistent code  
 
 ---
-
-## 🗂️ Folder Structure
