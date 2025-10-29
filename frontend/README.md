@@ -1,16 +1,34 @@
-# React + Vite
+# 🍅 Tomato – Food Ordering Frontend
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+> A modern, responsive React frontend for a food ordering web app. Built with **Vite**, styled with **CSS**, and designed for a smooth user experience.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 📖 About
+**Tomato** is a frontend-only food ordering web application. It allows users to explore a menu, view dishes, add items to the cart, and simulate an order checkout — all within a clean, fast, and responsive interface.
 
-## React Compiler
+This project focuses on the **UI/UX layer only** and is ready to connect with any backend API for production use.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 🚀 Features
+- Fully responsive UI for all screen sizes  
+- Interactive menu with category filtering  
+- Add-to-cart and cart management system  
+- LocalStorage persistence (cart saved after reload)  
+- Simple login/signup popup (frontend only)  
+- Modern, minimal design inspired by real food apps  
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🧰 Tech Stack
+- ⚛️ **React 18+** – component-based UI  
+- ⚡ **Vite** – fast development and build tool  
+- 🎨 **CSS / Flexbox / Grid** – styling and responsiveness  
+- 🧭 **React Router DOM** – navigation between pages  
+- 🧩 **Context API** – state management (cart, user, etc.)  
+- 🧹 **ESLint** – clean, consistent code  
+
+---
+
+## 🗂️ Folder Structure
